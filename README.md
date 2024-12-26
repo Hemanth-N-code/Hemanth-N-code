@@ -1,1 +1,1 @@
-Login page for a app
+All mini projects
